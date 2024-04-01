@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300,700,900&display=swap');
+
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: seagreen;
+} */
+
+.wrapper {
+    width: 420px;
+    background: purple;
+    color: #fff;
+}
+
+.wrapper h1 {
+    width: 36px;
+    text-align: center;
+}
